@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio995/static/css/main.698bddd1.css",
+    "main.js": "/Portfolio995/static/js/main.ece8c21b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio995/static/js/787.28cb0dcd.chunk.js",
+    "static/media/codeEditor.png": "/Portfolio995/static/media/codeEditor.95a8484fc3ffa34c6bec.png",
+    "static/media/leaf.png": "/Portfolio995/static/media/leaf.440cc9be6a41ae571c1a.png",
+    "static/media/suicide.png": "/Portfolio995/static/media/suicide.dc0ff2493a3c45313c88.png",
+    "static/media/blog.png": "/Portfolio995/static/media/blog.67f8e848f3de070ad821.png",
+    "static/media/chatify.png": "/Portfolio995/static/media/chatify.05c47e2a6d7bf2951868.png",
+    "static/media/home-main.svg": "/Portfolio995/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio995/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/emotion.png": "/Portfolio995/static/media/emotion.731d71264bfefec8392a.png",
+    "static/media/Galoyan_Front_CV.pdf": "/Portfolio995/static/media/Galoyan_Front_CV.b9505dcc34924392a64c.pdf",
+    "static/media/home-bg.jpg": "/Portfolio995/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/sticker.webp": "/Portfolio995/static/media/sticker.ed65d67a1b99057b1147.webp",
+    "static/media/logo.png": "/Portfolio995/static/media/logo.cd8d63432d5b5100ceb3.png",
+    "static/media/pre.svg": "/Portfolio995/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio995/index.html",
+    "main.698bddd1.css.map": "/Portfolio995/static/css/main.698bddd1.css.map",
+    "main.ece8c21b.js.map": "/Portfolio995/static/js/main.ece8c21b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio995/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698bddd1.css",
+    "static/js/main.ece8c21b.js"
+  ]
+}
