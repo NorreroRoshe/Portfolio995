@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
+  Portfolio Website <br/>
+  <a href="https://NorreroRoshe.github.io/Portfolio995" target="_blank">Norik Portfolio Demo</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -31,20 +31,18 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://NorreroRoshe.github.io/Portfolio995" target="_blank">https://NorreroRoshe.github.io/Portfolio995</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
-- Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
-**📖 Multi-Page Layout**
+**📖 SPA-application**
 
 **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
