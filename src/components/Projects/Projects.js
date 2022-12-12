@@ -48,8 +48,8 @@ function Projects() {
               isBlog={false}
               title="React Protfolio"
               description="My self coded personal website build with React.js. I created my portfolio card (React portfolio) for my employers, clients, colleagues and others could see the information about me and my career in programming! The project was created entirely on React.js"
-              ghLink="https://github.com/NorreroRoshe/ReactPizza"
-              demoLink="https://norreroroshe.github.io/ReactPizza/"
+              ghLink="https://github.com/NorreroRoshe/Portfolio995"
+              demoLink="https://NorreroRoshe.github.io/Portfolio995"
             />
           </Col>
 
